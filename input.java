@@ -1,5 +1,5 @@
 //topic 1:input from the user
-// 1.Create an integer variable called age and print it.
+// 1.find the integer even or odd
 import java.util.Scanner;
 public class input {
     public static void main(String args[]){
