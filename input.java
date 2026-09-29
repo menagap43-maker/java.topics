@@ -54,3 +54,6 @@ public class input{
     System.out.print("the multiply number is:" + d);
     }
 }*/
+
+//5.Take a number and find its square.
+import java.util.Scanner;
