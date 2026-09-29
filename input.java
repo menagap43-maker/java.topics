@@ -1,6 +1,6 @@
 //topic 1:input from the user
 // 1.find the integer even or odd
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class input {
     public static void main(String args[]){
         Scanner scan=new Scanner(System.in);
@@ -14,4 +14,11 @@ public class input {
         }
     
 }
+}*/
+
+//2.Create an integer variable called age and print it.
+public class input{
+    public static void(String args[]){
+        
+    }
 }
