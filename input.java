@@ -25,7 +25,7 @@ public class input {
     }
 }*/
 
-//3.Create two integer variables and print their sum.
+//3.Take two numbers from the user and print their sum.
  import java.util.Scanner;
  public class input{
     public static void main(String args[]){
