@@ -17,8 +17,24 @@ public class input {
 }*/
 
 //2.Create an integer variable called age and print it.
-public class input{
-    public static void(String args[]){
-        
+/*public class input{
+    public static void main(String args[]){
+    int age=18;
+    System.out.print("my age is:" + age); 
+
     }
-}
+}*/
+
+//3.Create two integer variables and print their sum.
+ import java.util.Scanner;
+ public class input{
+    public static void main(String args[]){
+        Scanner scan=new Scanner(System.in);
+        System.out.println("enter the num1:");
+        int a= scan.nextInt();
+        System.out.print("enter the num2:");
+        int b= scan.nextInt();
+        int sum=a+b;
+        System.out.print("the sum is:"+ sum);
+    }
+ }
