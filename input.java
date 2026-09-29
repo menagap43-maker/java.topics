@@ -26,7 +26,7 @@ public class input {
 }*/
 
 //3.Take two numbers from the user and print their sum.
- import java.util.Scanner;
+ /*import java.util.Scanner;
  public class input{
     public static void main(String args[]){
         Scanner scan=new Scanner(System.in);
@@ -37,4 +37,7 @@ public class input {
         int sum=a+b;
         System.out.print("the sum is:"+ sum);
     }
- }
+ }*/
+
+// 4.Take two numbers and print their multiplication.
+import java.util.Scanner;
