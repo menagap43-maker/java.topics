@@ -58,5 +58,8 @@ public class input{
 //5.Take a number and find its square.
 import java.util.Scanner;
 public class input{
+    public static void main(String args[]){
+        
+    }
 
 }
