@@ -41,3 +41,16 @@ public class input {
 
 // 4.Take two numbers and print their multiplication.
 import java.util.Scanner;
+public class input{
+    public static void main(String args[]){
+    Scanner scan = new Scanner(System.in);
+    System.out.println("enter the num1:");
+    int a= scan.nextInt();
+    System.out.println("enter the num2:");
+    int b=scan.nextInt();
+    System.out.print("enter the num3:");
+    int c=scan.nextInt();
+    int d=a*b*c;
+    System.out.print("the multiply number is:" + d);
+    }
+}
