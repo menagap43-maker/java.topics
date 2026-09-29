@@ -40,7 +40,7 @@ public class input {
  }*/
 
 // 4.Take two numbers and print their multiplication.
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class input{
     public static void main(String args[]){
     Scanner scan = new Scanner(System.in);
@@ -53,4 +53,4 @@ public class input{
     int d=a*b*c;
     System.out.print("the multiply number is:" + d);
     }
-}
+}*/
