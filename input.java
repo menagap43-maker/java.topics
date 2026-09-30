@@ -60,6 +60,7 @@ import java.util.Scanner;
 public class input{
     public static void main(String args[]){
         Scanner scan= new Scanner(System.in);
+        System.out.println("enter the number:");
         int n = scan.nextInt();
         int square= n*n;
         System.out.print("the square number is:" + square);
