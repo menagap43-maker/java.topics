@@ -71,7 +71,7 @@ public class input{
 
 //6.Take three numbers and find their average
 
-public class input{
+/*public class input{
     public static void main(String args[]){
     int a=10;
     int b=3;
@@ -79,4 +79,10 @@ public class input{
     int num=a*b*c;
     System.out.println(num);
 }
-}
+}*/
+
+// if else statement
+//7.Take a number and check whether it is positive or negative.
+
+import java.util.Scanner;
+
