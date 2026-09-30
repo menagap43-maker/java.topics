@@ -59,7 +59,10 @@ public class input{
 import java.util.Scanner;
 public class input{
     public static void main(String args[]){
-        Scanner scanner=
+        Scanner scan= new Scanner(System.in);
+        int n = scan.nextInt();
+        int square= n*n;
+        System.out.print("the square number is:" + square);
         
     }
 
