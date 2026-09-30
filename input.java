@@ -56,7 +56,7 @@ public class input{
 }*/
 
 //5.Take a number and find its square.
-import java.util.Scanner;
+/*import java.util.Scanner;
 public class input{
     public static void main(String args[]){
         Scanner scan= new Scanner(System.in);
@@ -67,4 +67,16 @@ public class input{
         
     }
 
+}*/
+
+//6.Take three numbers and find their average
+
+public class input{
+    public static void main(String args[]){
+    int a=10;
+    int b=3;
+    int c=6;
+    int num=a*b*c;
+    System.out.println(num);
+}
 }
