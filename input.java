@@ -59,6 +59,7 @@ public class input{
 import java.util.Scanner;
 public class input{
     public static void main(String args[]){
+        Scanner scanner=
         
     }
 
