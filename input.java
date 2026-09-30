@@ -85,4 +85,20 @@ public class input{
 //7.Take a number and check whether it is positive or negative.
 
 import java.util.Scanner;
+public class input{
+    public static void main(String args[]){
+    Scanner scan = new Scanner(System.in);
+    System.out.print("enter the number: ");
+    int n= scan.nextInt();
+    if(n>0){
+        System.out.print("positive");
+    }
+    else{
+        System.out.print("negative");
+    }
+    }
+
+    
+
+}
 
